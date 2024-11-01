@@ -1,0 +1,13 @@
+{
+    "sex": {
+        "male_divorced_separated": 0,
+        "female_divorced_separated_married": 1,
+        "male_single": 2,
+        "male_married_widowed": 3
+    },
+    "age_cat": {
+        "Less than 25": 0,
+        "25 - 45": 1,
+        "Greater than 45": 2
+    }
+}

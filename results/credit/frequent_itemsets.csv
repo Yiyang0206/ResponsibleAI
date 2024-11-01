@@ -1,0 +1,10 @@
+support,group_size,group_code,sex,age_cat
+0.159,159,1_1,female_divorced_separated_married,25 - 45
+0.035,35,0_1,male_divorced_separated,25 - 45
+0.057,57,3_1,male_married_widowed,25 - 45
+0.373,373,2_1,male_single,25 - 45
+0.046,46,1_2,female_divorced_separated_married,Greater than 45
+0.119,119,2_2,male_single,Greater than 45
+0.105,105,1_0,female_divorced_separated_married,Less than 25
+0.027,27,3_0,male_married_widowed,Less than 25
+0.056,56,2_0,male_single,Less than 25

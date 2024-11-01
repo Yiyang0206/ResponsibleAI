@@ -1,0 +1,18 @@
+{
+    "Race": {
+        " Amer-Indian-Eskimo": 0,
+        " Asian-Pac-Islander": 1,
+        " Black": 2,
+        " Other": 3,
+        " White": 4
+    },
+    "Gender": {
+        " Female": 0,
+        " Male": 1
+    },
+    "age_cat": {
+        "25 - 45": 0,
+        "Greater than 45": 1,
+        "Less than 25": 2
+    }
+}

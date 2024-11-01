@@ -1,0 +1,19 @@
+{
+    "race": {
+        "African-American": 0,
+        "Asian": 1,
+        "Caucasian": 2,
+        "Hispanic": 3,
+        "Native American": 4,
+        "Other": 5
+    },
+    "sex": {
+        "Female": 0,
+        "Male": 1
+    },
+    "age_cat": {
+        "25 - 45": 0,
+        "Greater than 45": 1,
+        "Less than 25": 2
+    }
+}
